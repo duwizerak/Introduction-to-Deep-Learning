@@ -1,2 +1,4 @@
-# Introduction-to-Deep-Learning-with-Colab
-Link to introduction to Deep Learning with Colab
+# Introduction-to-Deep-Learning
+
+### Colab Notebook
+https://colab.research.google.com/drive/1eiRK3H0o_KJe2c2O4U1hSoGLzLQrcBvD
